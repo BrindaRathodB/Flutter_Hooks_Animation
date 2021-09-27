@@ -1,0 +1,4 @@
+#Sun Sep 26 14:03:28 IST 2021
+base.0=/Users/apple/Desktop/Work/Demos/flutter_hooks_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
